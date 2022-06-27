@@ -29,7 +29,7 @@ User can add their database name, MySQL username, and MySQL password to an enc f
 ## Video Submission
 
 ## Questions
-Question about this project? Reach out o me at andreadhaag@gmail.com
+Question about this project? Reach out to me at andreadhaag@gmail.com
 
 
 
