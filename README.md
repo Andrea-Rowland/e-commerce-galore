@@ -27,6 +27,7 @@ User can add their database name, MySQL username, and MySQL password to an enc f
 * dotenv
 
 ## Video Submission
+https://drive.google.com/file/d/1kV6djZVllwG8COfZnuCqBU3gT6bLsFTO/view
 
 ## Questions
 Question about this project? Reach out to me at andreadhaag@gmail.com
